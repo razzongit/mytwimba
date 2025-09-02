@@ -9,7 +9,7 @@ This project was guided by Tom Chant and helped me solidify my understanding of 
 
 ## 📸 Demo Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/images/Twimbabyrazz.gif)
 
 
 ## ✨ Features
